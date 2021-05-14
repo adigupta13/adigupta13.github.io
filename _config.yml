@@ -2,7 +2,7 @@
 
 title: ADITYA GUPTA
 
-baseurl: /aditya
+# baseurl: /aditya
 sass:
   style: compressed
 
