@@ -1,0 +1,16 @@
+### your site title here
+
+title: ADITYA GUPTA
+
+baseurl: /aditya
+sass:
+  style: compressed
+
+# Tracker
+analytics: UA-113566887-1
+
+exclude:
+  - README.md
+
+include:
+  - _pages
