@@ -8,6 +8,10 @@ Hi, I'm Aditya Gupta. Nice to meet you.
 
 I'm a solidity and web3.js developer who is passionate about decentralization technologies.
 
+<!-- [here is possible to download the file in PDF][1]
+
+[1]:{{ site.url }}/files/Aditya_Gupta_Resume.pdf -->
+
 ### What is decentralization?
 
 I'm glad you asked. Decentralization is when we distribute the control of a service from one central authority to a bunch of people distributed and not related to each other. All people in this distributed network contribute towards maintainence of this service.

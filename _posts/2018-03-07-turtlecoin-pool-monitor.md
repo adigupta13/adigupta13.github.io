@@ -6,7 +6,7 @@ icon: server
 
 ![turtlecoin]({{site.baseurl}}/images/pool_monitor/trtl.jpg)
 
-[Turtlecoin](https://turtlecoin.lol/) is a small communite driven project, aimed at creating a privacy centric low fees cryptocurrency. This project is also compared as similar alternative to [Dogecoin](https://dogecoin.com/).
+[Turtlecoin](https://turtlecoin.lol/) is a small community driven project, aimed at creating a privacy centric low fees cryptocurrency. This project is also compared as similar alternative to [Dogecoin](https://dogecoin.com/).
 
 Like many other cryptocurrencies, Turtlecoin employs the Proof-of-Work {PoW} mechanism to arrive at consensus for each block. Originally created as method to thwart denial of service attacks, PoW quickly became one of the most widely used mechanisms in public blockchains.
 
@@ -31,3 +31,5 @@ The application was officially recognised and featured on the turtlecoin website
 ### Updates 08/09/2020
 
 The application has been taken down by PlayStore as it violates it's policies for being affiliated to cryptocurrency mining. The application still lives on [mirrors](https://www.apkmonk.com/app/ml.fifty9.poolmonitor/)
+
+[![repo](https://opengraph.githubassets.com/ce8fa1d42610c32aa920cc07d32f17ff7701400444504fe5522163f0f70948bf/adigupta13/TRTLMiningPoolObserver)](https://github.com/adigupta13/TRTLMiningPoolObserver)
