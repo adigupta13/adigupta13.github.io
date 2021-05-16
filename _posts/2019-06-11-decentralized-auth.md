@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Decentralized Authentication"
-icon: key
+icon: fas fa-key
 ---
 
 ![Dauth]({{site.baseurl}}/images/dauth/dauth.webp)

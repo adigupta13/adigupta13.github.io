@@ -24,5 +24,9 @@ Imagine a bank where you deposited 100$. Now there are only 2 entities, namely t
 
 You are absolutely right. Just like democracy, a decentralized service relies on its participants to keep it running efficiently and correctly.
 
+### Want to know more?
+
+Feel free to send a "Hi" at [adi.gupta13@gmail.com](mailto:adi.gupta13@gmail.com)
+
 <!-- <a class="github-button" href="https://github.com/sharu725/krishna" data-style="mega" data-count-href="/sharu725/krishna/stargazers" data-count-api="/repos/sharu725/krishna#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/krishna on GitHub">Star</a>
 <script async defer src="https://buttons.github.io/buttons.js"></script> -->

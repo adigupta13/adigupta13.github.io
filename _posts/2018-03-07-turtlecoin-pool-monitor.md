@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TRTL Mining Pool Observer"
-icon: server
+icon: fas fa-server
 ---
 
 ![turtlecoin]({{site.baseurl}}/images/pool_monitor/trtl.jpg)
