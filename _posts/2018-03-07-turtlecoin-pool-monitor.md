@@ -24,7 +24,7 @@ I quickly realised that most if not all mining pools used [CryptoNote](https://g
 
 > Mission accomplished!
 
-![screenshot1]({{site.baseurl}}/images/pool_monitor/screenshot.png)
+![screenshot_app]({{site.baseurl}}/images/pool_monitor/screenshot.png)
 
 The application was officially recognised and featured on the turtlecoin website and [blog](https://medium.com/@turtlecoin/this-week-in-turtlecoin-feb-24-2018-873ba23acafe).
 

@@ -24,7 +24,7 @@ So I started exploring the idea of authentication on blockchains which would ens
 
 - A user can create an account with it by sending it a transaction with their details.
 
-![screenshot1]({{site.baseurl}}/images/dauth/dauth_signup.png)
+![signup screenshot]({{site.baseurl}}/images/dauth/dauth_signup.png)
 
 - When a website requests for login details, the user sends a signed transaction to the contract
 
@@ -32,7 +32,7 @@ So I started exploring the idea of authentication on blockchains which would ens
 
 - The user data arrives in the frontend of the website requesting auth (using a web wallet like metamask)
 
-![screenshot1]({{site.baseurl}}/images/dauth/dauth_transaction.png)
+![transaction screenshot]({{site.baseurl}}/images/dauth/dauth_transaction.png)
 
 ### And it works!
 
